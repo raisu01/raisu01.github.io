@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raisu01.github.io/arbre-familial/sitemap.xml
